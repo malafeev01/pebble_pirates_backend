@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pillow>=10.4
+google-genai>=0.3
+pydantic>=2.8
+app-store-server-library>=1.4
